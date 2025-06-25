@@ -29,15 +29,3 @@ Pengguna dapat mengetik pesan dan menerima respons real-time dari AI, dengan riw
 
 * Python 3.7+
 * Koneksi internet untuk mengakses OpenRouter API.
-
-## Cara Mengatur Proyek (Setup)
-
-Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal di komputer Anda.
-
-### 1. Clone Repositori
-
-Buka Terminal atau Command Prompt dan jalankan perintah berikut:
-
-```bash
-git clone [https://github.com/rarazhafira3/fun_project_2_REA6NSAKZ.git](https://github.com/rarazhafira3/fun_project_2_REA6NSAKZ.git)
-cd fun_project_2_REA6NSAKZ
