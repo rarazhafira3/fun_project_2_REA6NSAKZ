@@ -39,5 +39,5 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal di komp
 Buka Terminal atau Command Prompt dan jalankan perintah berikut:
 
 ```bash
-git clone [https://github.com/your-username/fun_project_2_REAID.git](https://github.com/your-username/fun_project_2_REAID.git)
-cd fun_project_2_REAID
+git clone [https://github.com/rarazhafira3/fun_project_2_REA6NSAKZ.git](https://github.com/rarazhafira3/fun_project_2_REA6NSAKZ.git)
+cd fun_project_2_REA6NSAKZ
